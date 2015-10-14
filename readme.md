@@ -1,8 +1,7 @@
 uazui
 ===
 
-## About
-
+## About 
 uazuiで快適な環境を構築したい
 
 ```
@@ -21,3 +20,4 @@ uazuiで快適な環境を構築したい
 * vim
 * zsh
 
+PRをたのむ
