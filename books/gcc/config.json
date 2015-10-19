@@ -1,0 +1,10 @@
+{
+  "common":{
+    "user": "s1220244",
+    "frequency": "2",
+    "install_dir": "/home/debian/.uazui2"
+  },
+  "install":{
+    "gcc": true
+  }
+}
