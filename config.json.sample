@@ -6,10 +6,12 @@
   },
   "install": {
     "gcc": true,
-    "binutils": true
+    "binutils": true,
+    "git": true
   },
   "version": {
     "gcc": "4.9.3",
-    "binutils": "2.25.1"
+    "binutils": "2.25.1",
+    "git": "2.6.1"
   }
 }

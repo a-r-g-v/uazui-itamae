@@ -18,7 +18,7 @@ bundle exec itamae local uazui.rb -j config.json ## provisioning ( Reccomend: In
 
 - [x] gcc 4.9.3
 - [x] binutils 2.25.1
-- [ ] git 2.6.1
+- [x] git 2.6.1
 - [ ] tmux 2.0.0
 
 ## todo
