@@ -5,9 +5,11 @@
     "install_dir": "/home/debian/.uazui"
   },
   "install": {
-    "gcc": true
+    "gcc": true,
+    "binutils": true
   },
   "version": {
-    "gcc": "4.9.3"
+    "gcc": "4.9.3",
+    "binutils": "2.25.1"
   }
 }
