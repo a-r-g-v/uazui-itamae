@@ -2,7 +2,7 @@
   "common": {
     "user": "s13305555",
     "frequency": "2",
-    "install_dir": "/home/debian/.uazui"
+    "install_dir": "/home/student/s13305555/.uazui"
   },
   "install": {
     "gcc": true,

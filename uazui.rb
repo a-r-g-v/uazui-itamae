@@ -11,3 +11,5 @@ include_recipe "./books/gcc" if node['install']['gcc'] and !is_installed_gcc
 
 ## binutils
 include_recipe "./books/binutils" if node['install']['binutils'] and !is_installed_binutils
+
+print "Please, Delete working directory path: /tmp/#{node["common"]["user"]}-uazui/"

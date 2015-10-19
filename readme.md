@@ -17,7 +17,7 @@ bundle exec itamae local uazui.rb -j config.json ## provisioning ( Reccomend: In
 ## Solaris Books (from source)
 
 - [x] gcc 4.9.3
-- [ ] binutils 2.25.1
+- [x] binutils 2.25.1
 - [ ] git 2.6.1
 - [ ] tmux 2.0.0
 
