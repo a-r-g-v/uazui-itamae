@@ -8,7 +8,7 @@ directory "/tmp/#{node["common"]["user"]}-uazui/git/lib" do
 end
 
 # openssl 
-is_installed_openssl = file.exist?(node["common"]["install_dir"]+"/bin/openssl")
+is_installed_openssl = File.exist?(node["common"]["install_dir"]+"/bin/openssl")
 include_recipe './openssl' unless is_installed_openssl
 
 include_recipe './git'
